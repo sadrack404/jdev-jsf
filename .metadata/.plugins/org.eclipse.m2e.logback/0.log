@@ -321,3 +321,65 @@
 2023-07-27 12:03:39,381 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
 2023-07-27 12:03:39,383 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2023-07-27 12:03:39,384 [Worker-94: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:29:13,213 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:29:13,213 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:29:13,215 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:29:13,215 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:30:51,000 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:30:51,000 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:30:51,001 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:30:51,001 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:32:12,033 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:32:12,033 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:32:12,035 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:32:12,035 [Worker-117: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:33:40,559 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:33:40,559 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:33:40,560 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:33:40,560 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:34:24,791 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:34:24,792 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:34:24,793 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:34:24,793 [Worker-118: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:36:18,798 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:36:18,798 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:36:18,800 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:36:18,800 [Worker-112: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:39:27,261 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:39:27,262 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:39:27,264 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:39:27,265 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:39:41,305 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:39:41,305 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:39:41,307 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:39:41,308 [Worker-126: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:45:38,719 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:45:38,719 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:45:38,721 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:45:38,721 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:45:40,684 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:45:40,684 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:45:40,685 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:45:40,685 [Worker-128: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:51:52,260 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:51:52,260 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:51:52,261 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:51:52,261 [Worker-120: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:53:02,037 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:53:02,037 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:53:02,038 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:53:02,039 [Worker-132: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 12:59:23,334 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:59:23,335 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 12:59:23,337 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 12:59:23,337 [Worker-133: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 13:00:19,377 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 13:00:19,377 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 13:00:19,378 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 13:00:19,378 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 13:01:51,226 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 13:01:51,226 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources
+2023-07-27 13:01:51,228 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 13:01:51,228 [Worker-131: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\test\resources
+2023-07-27 13:02:24,942 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2023-07-27 13:02:24,942 [Worker-137: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\sadrack-jdev\jdev-jsp\meuprojetojsf\src\main\resources

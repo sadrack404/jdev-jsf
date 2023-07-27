@@ -22,7 +22,7 @@
 		<h:outputText value="#{pessoaBean.nomeCompleto}"/>
 		<br/>
 		
-		<h:commandButton value="Exibir nomes" action="#{pessoaBean.mostarNome}"/>
+		<h:commandButton value="Exibir nomes" action=""/>
 
 	</h:form>
 

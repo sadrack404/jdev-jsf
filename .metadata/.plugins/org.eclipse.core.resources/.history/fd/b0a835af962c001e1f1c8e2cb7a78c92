@@ -9,11 +9,6 @@ public class PessoaBean {
 	private String sobrenome;
 	private String nomeCompleto;
 
-	public String mostarNome() {
-		this.nomeCompleto = nome + " - " + sobrenome;
-		return nomeCompleto;
-	}
-
 	public String getNomeCompleto() {
 		return nomeCompleto;
 	}

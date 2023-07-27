@@ -16,13 +16,16 @@
 		<h:inputText id="CampoNome" value="#{pessoaBean.nome}"/>
 		<br/>
 		
-		<h:inputText id="CampoSobreNome" value="#{pessoaBean.sobrenome}"/>
+		<h:inputText id="CampoSobreNome" value="#{pessoaBean.sobreNome}"/>
 		<br/>
 		
-		<h:outputText value="#{pessoaBean.nomeCompleto}"/>
-		<br/>
+		<h:outputText value="#{pessoaBean.nomeCompleto}"></h:outputText>
 		
-		<h:commandButton value="Exibir nomes" action="#{pessoaBean.mostarNome}"/>
+		
+		<h:outputText value="Teste JSF"></h:outputText>
+		<br/>
+
+		<h:button value="Clique aqui"></h:button>
 
 	</h:form>
 
