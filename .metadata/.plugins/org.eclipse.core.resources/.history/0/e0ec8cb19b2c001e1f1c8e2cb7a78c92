@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Frameset//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-frameset.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:h="http://java.sun.com/jsf/html">
+
+<h:head>
+	<title>Olá Mundo</title>
+</h:head>
+
+<h:body>
+
+	<h:form id="formPessoa">
+
+		<h1>Olá Mundo!!</h1>
+
+		<h:inputText id="CampoNome" value="#{pessoaBean.nome}"/>
+		<br/>
+		
+		<h:inputText id="CampoSobreNome" value="#{pessoaBean.sobrenome}"/>
+		<br/>
+		
+		<h:outputText value="#{pessoaBean.nomeCompleto}"/>
+		<br/>
+		
+		<h:commandButton value="Exibir nomes" action="#{pessoaBean.mostarNome}"/>
+
+	</h:form>
+
+</h:body>
+</html>

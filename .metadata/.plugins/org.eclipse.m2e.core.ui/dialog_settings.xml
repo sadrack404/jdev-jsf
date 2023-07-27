@@ -25,13 +25,16 @@
 	</section>
 	<section name="Maven2ProjectWizardArchifactPage">
 		<list key="package">
+			<item value="meuProjetoJSF.meuProjetoJSF"/>
 			<item value="br.com.jdevcurso"/>
 		</list>
 		<list key="groupId">
+			<item value="meuProjetoJSF"/>
 			<item value="meuPrimeiroProjetoJSF"/>
 			<item value="neuPrimeiroProjetoJSF"/>
 		</list>
 		<list key="artifactId">
+			<item value="meuProjetoJSF"/>
 			<item value="meuPrimeiroProjetoJSF"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -64,5 +67,23 @@
 		<list key="version">
 			<item value="0.0.1-SNAPSHOT"/>
 		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.ui.internal.dialogs.MavenRepositorySearchDialog">
+		<item key="width" value="480"/>
+		<item key="height" value="531"/>
+		<item key="x" value="443"/>
+		<item key="y" value="30"/>
 	</section>
 </section>
