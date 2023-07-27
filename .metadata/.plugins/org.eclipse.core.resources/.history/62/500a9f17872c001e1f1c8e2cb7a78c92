@@ -1,0 +1,12 @@
+package meuProjetoJSF.meuProjetoJSF;
+
+import javax.faces.bean.ManagedBean;
+
+@ManagedBean(name = "pessoaBean")
+public class PessoaBean {
+	
+	private String nome;
+	private String sobrenome;
+	
+	
+}
